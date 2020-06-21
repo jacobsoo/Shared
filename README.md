@@ -1,2 +1,2 @@
 # Shared
-This is just some old notes that i made using [Binder](https://mybinder.org/)
+This is just some old notes that i made using [Colab](https://colab.research.google.com/)
